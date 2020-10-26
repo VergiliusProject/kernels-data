@@ -107,7 +107,7 @@ types:
     kind: BASE
     sizeof: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 10
     kind: UNION
     sizeof: 4
@@ -947,7 +947,7 @@ types:
     kind: BASE
     sizeof: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 35
     kind: STRUCT
     sizeof: 8
@@ -1001,7 +1001,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 39
     kind: STRUCT
     sizeof: 8
@@ -1063,7 +1063,7 @@ types:
     kind: STRUCT
     sizeof: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 45
     kind: STRUCT
     sizeof: 4
@@ -1084,7 +1084,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 46
     kind: UNION
     sizeof: 4
@@ -7933,7 +7933,7 @@ types:
         offset: 1
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 234
     kind: UNION
     sizeof: 4
@@ -10248,7 +10248,7 @@ types:
         offset: 28
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 273
     kind: STRUCT
     sizeof: 4
@@ -10274,7 +10274,7 @@ types:
         offset: 3
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 274
     kind: STRUCT
     sizeof: 4
@@ -17846,7 +17846,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 519
     kind: UNION
     sizeof: 4
@@ -17898,7 +17898,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 522
     kind: UNION
     sizeof: 8
@@ -17924,7 +17924,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 524
     kind: UNION
     sizeof: 48
@@ -17961,7 +17961,7 @@ types:
         offset: 1
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 526
     kind: STRUCT
     sizeof: 16
@@ -17987,7 +17987,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 527
     kind: STRUCT
     sizeof: 8
@@ -18364,7 +18364,7 @@ types:
         offset: 18
         ordinal: 19
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 536
     kind: UNION
     sizeof: 4
@@ -18385,7 +18385,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 537
     kind: UNION
     sizeof: 4
@@ -18396,7 +18396,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 538
     kind: STRUCT
     sizeof: 16
@@ -18569,7 +18569,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 548
     kind: UNION
     sizeof: 40
@@ -19333,7 +19333,7 @@ types:
         offset: 24
         ordinal: 7
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 582
     kind: STRUCT
     sizeof: 8
@@ -19372,7 +19372,7 @@ types:
         offset: 2
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 584
     kind: STRUCT
     sizeof: 44
@@ -21694,7 +21694,7 @@ types:
         offset: 4
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 691
     kind: STRUCT
     sizeof: 8
@@ -21715,7 +21715,7 @@ types:
         offset: 4
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 692
     kind: STRUCT
     sizeof: 16
@@ -21731,7 +21731,7 @@ types:
         offset: 8
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 693
     kind: STRUCT
     sizeof: 8
@@ -21742,7 +21742,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 694
     kind: STRUCT
     sizeof: 4
@@ -25024,7 +25024,7 @@ types:
         offset: 4
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 744
     kind: UNION
     sizeof: 12
@@ -25410,7 +25410,7 @@ types:
         offset: 44
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 767
     kind: STRUCT
     sizeof: 4
@@ -25576,7 +25576,7 @@ types:
         offset: 0
         ordinal: 31
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 768
     kind: STRUCT
     sizeof: 4
@@ -25755,7 +25755,7 @@ types:
         offset: 6
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 774
     kind: UNION
     sizeof: 16
@@ -26202,7 +26202,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 790
     kind: UNION
     sizeof: 8
@@ -26386,7 +26386,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 804
     kind: STRUCT
     sizeof: 12
@@ -26412,7 +26412,7 @@ types:
         offset: 10
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 805
     kind: UNION
     sizeof: 4
@@ -26428,7 +26428,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 806
     kind: UNION
     sizeof: 4
@@ -27835,7 +27835,7 @@ types:
         offset: 192
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 822
     kind: STRUCT
     sizeof: 16
@@ -27866,7 +27866,7 @@ types:
         offset: 12
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 823
     kind: STRUCT
     sizeof: 16
@@ -27897,7 +27897,7 @@ types:
         offset: 12
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 824
     kind: STRUCT
     sizeof: 16
@@ -27928,7 +27928,7 @@ types:
         offset: 12
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 825
     kind: STRUCT
     sizeof: 16
@@ -27949,7 +27949,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 826
     kind: STRUCT
     sizeof: 16
@@ -27975,7 +27975,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 827
     kind: STRUCT
     sizeof: 8
@@ -27991,7 +27991,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 828
     kind: STRUCT
     sizeof: 12
@@ -28012,7 +28012,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 829
     kind: STRUCT
     sizeof: 8
@@ -28028,7 +28028,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 830
     kind: STRUCT
     sizeof: 16
@@ -28069,7 +28069,7 @@ types:
         offset: 12
         ordinal: 6
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 831
     kind: STRUCT
     sizeof: 16
@@ -28095,7 +28095,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 832
     kind: STRUCT
     sizeof: 4
@@ -28106,7 +28106,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 833
     kind: STRUCT
     sizeof: 8
@@ -28122,7 +28122,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 834
     kind: STRUCT
     sizeof: 16
@@ -28148,7 +28148,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 835
     kind: STRUCT
     sizeof: 16
@@ -28169,7 +28169,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 836
     kind: STRUCT
     sizeof: 16
@@ -28195,7 +28195,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 837
     kind: STRUCT
     sizeof: 8
@@ -28211,7 +28211,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 838
     kind: STRUCT
     sizeof: 8
@@ -28227,7 +28227,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 839
     kind: STRUCT
     sizeof: 8
@@ -28243,7 +28243,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 840
     kind: STRUCT
     sizeof: 4
@@ -28254,7 +28254,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 841
     kind: STRUCT
     sizeof: 16
@@ -28280,7 +28280,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 842
     kind: STRUCT
     sizeof: 4
@@ -28291,7 +28291,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 843
     kind: STRUCT
     sizeof: 16
@@ -28322,7 +28322,7 @@ types:
         offset: 12
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 844
     kind: STRUCT
     sizeof: 4
@@ -28333,7 +28333,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 845
     kind: STRUCT
     sizeof: 4
@@ -28344,7 +28344,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 846
     kind: STRUCT
     sizeof: 16
@@ -28370,7 +28370,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 847
     kind: STRUCT
     sizeof: 1
@@ -28381,7 +28381,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 848
     kind: STRUCT
     sizeof: 4
@@ -28392,7 +28392,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 849
     kind: STRUCT
     sizeof: 8
@@ -28408,7 +28408,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 850
     kind: STRUCT
     sizeof: 8
@@ -28429,7 +28429,7 @@ types:
         offset: 4
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 851
     kind: STRUCT
     sizeof: 4
@@ -28440,7 +28440,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 852
     kind: STRUCT
     sizeof: 4
@@ -28451,7 +28451,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 853
     kind: STRUCT
     sizeof: 16
@@ -28482,7 +28482,7 @@ types:
         offset: 12
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 854
     kind: STRUCT
     sizeof: 8
@@ -28498,7 +28498,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 855
     kind: STRUCT
     sizeof: 16
@@ -28524,7 +28524,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 856
     kind: STRUCT
     sizeof: 16
@@ -28798,7 +28798,7 @@ types:
         offset: 12
         ordinal: 12
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 864
     kind: UNION
     sizeof: 32
@@ -28927,7 +28927,7 @@ types:
         offset: 1
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 868
     kind: UNION
     sizeof: 24
@@ -29064,7 +29064,7 @@ types:
         offset: 44
         ordinal: 11
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 870
     kind: STRUCT
     sizeof: 8
@@ -29360,7 +29360,7 @@ types:
         offset: 52
         ordinal: 15
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 879
     kind: STRUCT
     sizeof: 4
@@ -29411,7 +29411,7 @@ types:
         offset: 0
         ordinal: 8
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 880
     kind: STRUCT
     sizeof: 4
@@ -29707,7 +29707,7 @@ types:
         offset: 4
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 895
     kind: UNION
     sizeof: 4
@@ -31028,7 +31028,7 @@ types:
         offset: 5
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 933
     kind: STRUCT
     sizeof: 20
@@ -31044,7 +31044,7 @@ types:
         offset: 16
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 934
     kind: STRUCT
     sizeof: 2
@@ -31055,7 +31055,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 935
     kind: STRUCT
     sizeof: 8
@@ -31071,7 +31071,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 936
     kind: STRUCT
     sizeof: 4
@@ -31082,7 +31082,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 937
     kind: STRUCT
     sizeof: 8
@@ -31098,7 +31098,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 938
     kind: STRUCT
     sizeof: 8
@@ -31114,7 +31114,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 939
     kind: STRUCT
     sizeof: 16
@@ -31125,7 +31125,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 940
     kind: STRUCT
     sizeof: 2
@@ -31136,7 +31136,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 941
     kind: STRUCT
     sizeof: 32
@@ -31204,7 +31204,7 @@ types:
         offset: 4
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 944
     kind: STRUCT
     sizeof: 24
@@ -31230,7 +31230,7 @@ types:
         offset: 16
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 945
     kind: STRUCT
     sizeof: 20
@@ -31266,7 +31266,7 @@ types:
         offset: 16
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 946
     kind: STRUCT
     sizeof: 8
@@ -31282,7 +31282,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 947
     kind: STRUCT
     sizeof: 16
@@ -31308,7 +31308,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 948
     kind: STRUCT
     sizeof: 12
@@ -31319,7 +31319,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 949
     kind: STRUCT
     sizeof: 16
@@ -31345,7 +31345,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 950
     kind: STRUCT
     sizeof: 12
@@ -31366,7 +31366,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 951
     kind: STRUCT
     sizeof: 24
@@ -31392,7 +31392,7 @@ types:
         offset: 16
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 952
     kind: STRUCT
     sizeof: 24
@@ -31418,7 +31418,7 @@ types:
         offset: 16
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 953
     kind: STRUCT
     sizeof: 24
@@ -31444,7 +31444,7 @@ types:
         offset: 16
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 954
     kind: STRUCT
     sizeof: 12
@@ -32511,7 +32511,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 988
     kind: UNION
     sizeof: 12
@@ -32718,7 +32718,7 @@ types:
         offset: 2
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 996
     kind: STRUCT
     sizeof: 8
@@ -32734,7 +32734,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 997
     kind: STRUCT
     sizeof: 16
@@ -33254,7 +33254,7 @@ types:
         offset: 156
         ordinal: 22
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1011
     kind: UNION
     sizeof: 8
@@ -33436,7 +33436,7 @@ types:
         offset: 7
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1020
     kind: STRUCT
     sizeof: 12
@@ -33452,7 +33452,7 @@ types:
         offset: 8
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1021
     kind: STRUCT
     sizeof: 12
@@ -33478,7 +33478,7 @@ types:
         offset: 8
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1022
     kind: STRUCT
     sizeof: 12
@@ -33494,7 +33494,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1023
     kind: STRUCT
     sizeof: 12
@@ -33515,7 +33515,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1024
     kind: STRUCT
     sizeof: 12
@@ -33551,7 +33551,7 @@ types:
         offset: 11
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1025
     kind: STRUCT
     sizeof: 12
@@ -33572,7 +33572,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1026
     kind: STRUCT
     sizeof: 12
@@ -33593,7 +33593,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1027
     kind: STRUCT
     sizeof: 12
@@ -33609,7 +33609,7 @@ types:
         offset: 8
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1028
     kind: STRUCT
     sizeof: 12
@@ -33625,7 +33625,7 @@ types:
         offset: 8
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1029
     kind: STRUCT
     sizeof: 12
@@ -34732,7 +34732,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1064
     kind: STRUCT
     sizeof: 12
@@ -34774,7 +34774,7 @@ types:
         offset: 8
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1066
     kind: STRUCT
     sizeof: 8
@@ -34790,7 +34790,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1067
     kind: STRUCT
     sizeof: 4
@@ -34801,7 +34801,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1068
     kind: STRUCT
     sizeof: 16
@@ -34827,7 +34827,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1069
     kind: STRUCT
     sizeof: 20
@@ -34858,7 +34858,7 @@ types:
         offset: 16
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1070
     kind: STRUCT
     sizeof: 20
@@ -35450,7 +35450,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1093
     kind: UNION
     sizeof: 44
@@ -40372,7 +40372,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1287
     kind: STRUCT
     sizeof: 4
@@ -40398,7 +40398,7 @@ types:
         offset: 0
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1288
     kind: STRUCT
     sizeof: 4
@@ -40445,7 +40445,7 @@ types:
         offset: 24
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1290
     kind: UNION
     sizeof: 932
@@ -41428,7 +41428,7 @@ types:
         offset: 0
         ordinal: 6
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1313
     kind: UNION
     sizeof: 24
@@ -41474,7 +41474,7 @@ types:
         offset: 0
         ordinal: 7
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1314
     kind: UNION
     sizeof: 4
@@ -41536,7 +41536,7 @@ types:
         offset: 0
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1318
     kind: STRUCT
     sizeof: 4
@@ -41547,7 +41547,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1319
     kind: STRUCT
     sizeof: 24
@@ -41583,7 +41583,7 @@ types:
         offset: 20
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1320
     kind: STRUCT
     sizeof: 4
@@ -46306,7 +46306,7 @@ types:
         offset: 512
         ordinal: 21
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1443
     kind: UNION
     sizeof: 4
@@ -46529,7 +46529,7 @@ types:
         offset: 2
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1453
     kind: UNION
     sizeof: 4
@@ -47218,7 +47218,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1486
     kind: UNION
     sizeof: 4
@@ -47591,7 +47591,7 @@ types:
         offset: 1
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1508
     kind: STRUCT
     sizeof: 4
@@ -47756,7 +47756,7 @@ types:
         offset: 3
         ordinal: 9
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1514
     kind: UNION
     sizeof: 4
@@ -48085,7 +48085,7 @@ types:
         offset: 148
         ordinal: 46
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1518
     kind: STRUCT
     sizeof: 32
@@ -48270,7 +48270,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1525
     kind: UNION
     sizeof: 4
@@ -48286,7 +48286,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1526
     kind: UNION
     sizeof: 4
@@ -48390,7 +48390,7 @@ types:
         offset: 4
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1531
     kind: UNION
     sizeof: 4
@@ -48685,7 +48685,7 @@ types:
         offset: 2
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1547
     kind: UNION
     sizeof: 4
@@ -48711,7 +48711,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1549
     kind: UNION
     sizeof: 12
@@ -48722,7 +48722,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1550
     kind: UNION
     sizeof: 4
@@ -49049,7 +49049,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1557
     kind: STRUCT
     sizeof: 12
@@ -49277,7 +49277,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1560
     kind: UNION
     sizeof: 8
@@ -49408,7 +49408,7 @@ types:
         offset: 0
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1567
     kind: UNION
     sizeof: 4
@@ -49424,7 +49424,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1568
     kind: STRUCT
     sizeof: 4
@@ -49440,7 +49440,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1569
     kind: STRUCT
     sizeof: 4
@@ -49451,7 +49451,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1570
     kind: UNION
     sizeof: 4
@@ -49498,7 +49498,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1572
     kind: STRUCT
     sizeof: 4
@@ -49514,7 +49514,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1573
     kind: STRUCT
     sizeof: 4
@@ -49535,7 +49535,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1574
     kind: STRUCT
     sizeof: 2
@@ -49546,7 +49546,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1575
     kind: STRUCT
     sizeof: 4
@@ -49557,7 +49557,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1576
     kind: UNION
     sizeof: 4
@@ -49655,7 +49655,7 @@ types:
         offset: 0
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1579
     kind: UNION
     sizeof: 4
@@ -49818,7 +49818,7 @@ types:
         offset: 0
         ordinal: 12
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1582
     kind: UNION
     sizeof: 4
@@ -50138,7 +50138,7 @@ types:
         offset: 0
         ordinal: 10
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1587
     kind: UNION
     sizeof: 4
@@ -50426,7 +50426,7 @@ types:
         offset: 28
         ordinal: 6
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1598
     kind: UNION
     sizeof: 4
@@ -50613,7 +50613,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1601
     kind: UNION
     sizeof: 4
@@ -50685,7 +50685,7 @@ types:
         offset: 0
         ordinal: 9
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1603
     kind: UNION
     sizeof: 24
@@ -50711,7 +50711,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1605
     kind: UNION
     sizeof: 4
@@ -50727,7 +50727,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1606
     kind: UNION
     sizeof: 4
@@ -51038,7 +51038,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1615
     kind: UNION
     sizeof: 4
@@ -51054,7 +51054,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1616
     kind: UNION
     sizeof: 4
@@ -51183,7 +51183,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1620
     kind: UNION
     sizeof: 4
@@ -51426,7 +51426,7 @@ types:
         offset: 8
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1631
     kind: UNION
     sizeof: 4
@@ -51557,7 +51557,7 @@ types:
         offset: 0
         ordinal: 6
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1636
     kind: UNION
     sizeof: 4
@@ -51573,7 +51573,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1637
     kind: UNION
     sizeof: 4
@@ -56142,7 +56142,7 @@ types:
         offset: 52
         ordinal: 10
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1775
     kind: STRUCT
     sizeof: 8
@@ -56334,7 +56334,7 @@ types:
         offset: 2
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1786
     kind: UNION
     sizeof: 8
@@ -56429,7 +56429,7 @@ types:
         offset: 2
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1791
     kind: STRUCT
     sizeof: 8
@@ -56445,7 +56445,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1792
     kind: STRUCT
     sizeof: 8
@@ -56461,7 +56461,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1793
     kind: STRUCT
     sizeof: 8
@@ -56607,7 +56607,7 @@ types:
         offset: 48
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1800
     kind: STRUCT
     sizeof: 12
@@ -56799,7 +56799,7 @@ types:
         offset: 33
         ordinal: 32
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1802
     kind: STRUCT
     sizeof: 12
@@ -56820,7 +56820,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1803
     kind: STRUCT
     sizeof: 4
@@ -56831,7 +56831,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1804
     kind: STRUCT
     sizeof: 16
@@ -56857,7 +56857,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1805
     kind: STRUCT
     sizeof: 16
@@ -56883,7 +56883,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1806
     kind: STRUCT
     sizeof: 12
@@ -56950,7 +56950,7 @@ types:
         offset: 28
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1809
     kind: STRUCT
     sizeof: 8
@@ -56992,7 +56992,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1812
     kind: UNION
     sizeof: 4
@@ -57003,7 +57003,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1813
     kind: STRUCT
     sizeof: 4
@@ -57014,7 +57014,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1814
     kind: UNION
     sizeof: 4
@@ -57030,7 +57030,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1815
     kind: STRUCT
     sizeof: 4
@@ -57190,7 +57190,7 @@ types:
         offset: 4
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1820
     kind: STRUCT
     sizeof: 8
@@ -61543,7 +61543,7 @@ types:
         offset: 24
         ordinal: 6
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1910
     kind: UNION
     sizeof: 40
@@ -62274,7 +62274,7 @@ types:
         offset: 16
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 1936
     kind: UNION
     sizeof: 40
@@ -66047,7 +66047,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2018
     kind: UNION
     sizeof: 8
@@ -66160,7 +66160,7 @@ types:
         offset: 101
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2025
     kind: STRUCT
     sizeof: 8
@@ -66176,7 +66176,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2026
     kind: STRUCT
     sizeof: 4
@@ -66187,7 +66187,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2027
     kind: STRUCT
     sizeof: 4
@@ -66198,7 +66198,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2028
     kind: STRUCT
     sizeof: 4
@@ -66209,7 +66209,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2029
     kind: STRUCT
     sizeof: 28
@@ -66235,7 +66235,7 @@ types:
         offset: 24
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2030
     kind: STRUCT
     sizeof: 64
@@ -66376,7 +66376,7 @@ types:
         offset: 1
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2035
     kind: UNION
     sizeof: 64
@@ -67187,7 +67187,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2065
     kind: STRUCT
     sizeof: 4
@@ -67966,7 +67966,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2084
     kind: UNION
     sizeof: 1
@@ -69923,7 +69923,7 @@ types:
         offset: 24
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2142
     kind: UNION
     sizeof: 56
@@ -70184,7 +70184,7 @@ types:
         offset: 16
         ordinal: 7
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2148
     kind: STRUCT
     sizeof: 4
@@ -70200,7 +70200,7 @@ types:
         offset: 2
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2149
     kind: UNION
     sizeof: 4
@@ -70216,7 +70216,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2150
     kind: STRUCT
     sizeof: 4
@@ -70232,7 +70232,7 @@ types:
         offset: 2
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2151
     kind: UNION
     sizeof: 4
@@ -70454,7 +70454,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2159
     kind: STRUCT
     sizeof: 1
@@ -70480,7 +70480,7 @@ types:
         offset: 0
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2160
     kind: UNION
     sizeof: 1
@@ -70542,7 +70542,7 @@ types:
         offset: 20
         ordinal: 7
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2162
     kind: STRUCT
     sizeof: 4
@@ -70558,7 +70558,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2163
     kind: UNION
     sizeof: 4
@@ -70993,7 +70993,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2177
     kind: UNION
     sizeof: 4
@@ -71243,7 +71243,7 @@ types:
         offset: 16
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2184
     kind: STRUCT
     sizeof: 4
@@ -71471,7 +71471,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2188
     kind: UNION
     sizeof: 4
@@ -71665,7 +71665,7 @@ types:
         offset: 328
         ordinal: 17
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2193
     kind: STRUCT
     sizeof: 4
@@ -71975,7 +71975,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2205
     kind: UNION
     sizeof: 8
@@ -71991,7 +71991,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2206
     kind: UNION
     sizeof: 4
@@ -72012,7 +72012,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2208
     kind: UNION
     sizeof: 4
@@ -72059,7 +72059,7 @@ types:
         offset: 24
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2210
     kind: STRUCT
     sizeof: 8
@@ -72080,7 +72080,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2211
     kind: STRUCT
     sizeof: 4
@@ -72152,7 +72152,7 @@ types:
         offset: 44
         ordinal: 9
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2213
     kind: STRUCT
     sizeof: 4
@@ -72188,7 +72188,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2215
     kind: UNION
     sizeof: 4
@@ -72199,7 +72199,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2216
     kind: STRUCT
     sizeof: 4
@@ -73057,7 +73057,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2245
     kind: UNION
     sizeof: 8
@@ -73946,7 +73946,7 @@ types:
         offset: 14
         ordinal: 7
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2271
     kind: STRUCT
     sizeof: 4
@@ -76369,7 +76369,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2358
     kind: UNION
     sizeof: 4
@@ -77140,7 +77140,7 @@ types:
         offset: 7292
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2388
     kind: STRUCT
     sizeof: 4
@@ -77161,7 +77161,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2389
     kind: UNION
     sizeof: 4
@@ -83282,7 +83282,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2642
     kind: UNION
     sizeof: 12
@@ -83792,7 +83792,7 @@ types:
         offset: 2
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2682
     kind: STRUCT
     sizeof: 4
@@ -83818,7 +83818,7 @@ types:
         offset: 3
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2683
     kind: STRUCT
     sizeof: 2
@@ -85215,7 +85215,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2729
     kind: UNION
     sizeof: 36
@@ -87964,7 +87964,7 @@ types:
         offset: 72
         ordinal: 21
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2834
     kind: UNION
     sizeof: 8
@@ -88281,7 +88281,7 @@ types:
         offset: 36
         ordinal: 6
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2848
     kind: STRUCT
     sizeof: 8
@@ -88378,7 +88378,7 @@ types:
         offset: 52
         ordinal: 13
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2850
     kind: STRUCT
     sizeof: 12
@@ -88414,7 +88414,7 @@ types:
         offset: 10
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2851
     kind: STRUCT
     sizeof: 4
@@ -88446,7 +88446,7 @@ types:
         offset: 3
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2853
     kind: UNION
     sizeof: 4
@@ -88472,7 +88472,7 @@ types:
         offset: 0
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2854
     kind: STRUCT
     sizeof: 4
@@ -91583,7 +91583,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2941
     kind: UNION
     sizeof: 4
@@ -91619,7 +91619,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2943
     kind: UNION
     sizeof: 2
@@ -91713,7 +91713,7 @@ types:
         offset: 3
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2947
     kind: STRUCT
     sizeof: 4
@@ -91838,7 +91838,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2952
     kind: UNION
     sizeof: 1
@@ -91854,7 +91854,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2953
     kind: STRUCT
     sizeof: 1
@@ -91875,7 +91875,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2954
     kind: STRUCT
     sizeof: 1
@@ -91886,7 +91886,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2955
     kind: UNION
     sizeof: 2
@@ -91975,7 +91975,7 @@ types:
         offset: 6
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 2959
     kind: UNION
     sizeof: 4
@@ -93569,7 +93569,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3040
     kind: UNION
     sizeof: 16
@@ -94956,7 +94956,7 @@ types:
         offset: 7
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3078
     kind: STRUCT
     sizeof: 4
@@ -94967,7 +94967,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3079
     kind: STRUCT
     sizeof: 4
@@ -96606,7 +96606,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3130
     kind: STRUCT
     sizeof: 4
@@ -96622,7 +96622,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3131
     kind: UNION
     sizeof: 16
@@ -98180,7 +98180,7 @@ types:
         offset: 0
         ordinal: 11
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3189
     kind: STRUCT
     sizeof: 24
@@ -99921,7 +99921,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3215
     kind: UNION
     sizeof: 16
@@ -100035,7 +100035,7 @@ types:
         offset: 4
         ordinal: 4
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3223
     kind: STRUCT
     sizeof: 8
@@ -100051,7 +100051,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3224
     kind: STRUCT
     sizeof: 16
@@ -101019,7 +101019,7 @@ types:
         offset: 12
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3252
     kind: UNION
     sizeof: 1
@@ -101897,7 +101897,7 @@ types:
         offset: 5
         ordinal: 5
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3269
     kind: UNION
     sizeof: 4
@@ -102524,7 +102524,7 @@ types:
         offset: 76
         ordinal: 13
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3281
     kind: STRUCT
     sizeof: 8
@@ -102540,7 +102540,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: <anonymous-tag>
+    name: <unnamed-tag>
     id: 3282
     kind: STRUCT
     sizeof: 8
