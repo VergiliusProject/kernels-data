@@ -1,5 +1,7 @@
 family: Windows 11
-osname: 22H2 (2022 Update)
+osname: 22H2 (2022 Update, Nickel R1)
+oldfamily: Windows 11
+oldosname: 22H2 (2022 Update)
 buildnumber: 10.0.22621.382
 arch: x64
 timestamp: 1659780698

@@ -1,5 +1,7 @@
 family: Windows 10
-osname: 2004 20H1 (May 2020 Update)
+osname: 2004 (May 2020 Update, Vibranium R1)
+oldfamily: Windows 10
+oldosname: 2004 20H1 (May 2020 Update)
 buildnumber: 10.0.19041.264
 arch: x86
 timestamp: 1589187603

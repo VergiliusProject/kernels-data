@@ -1,5 +1,7 @@
 family: Windows 11
-osname: 23H2 (2023 Update)
+osname: 23H2 (2023 Update, Nickel R2)
+oldfamily: Windows 11
+oldosname: 23H2 (2023 Update)
 buildnumber: 10.0.22631.2428
 arch: x64
 timestamp: 1696147375

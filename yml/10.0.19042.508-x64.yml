@@ -1,6 +1,8 @@
-family: Windows 10 | 2016
-osname: 2009 20H2 (October 2020 Update)
-buildnumber: 10.0.19041.508
+family: Windows 10
+osname: 20H2 (October 2020 Update, Vibranium R2)
+oldfamily: Windows 10 | 2016
+oldosname: 2009 20H2 (October 2020 Update)
+buildnumber: 10.0.19042.508
 arch: x64
 timestamp: 1601239958
 types:

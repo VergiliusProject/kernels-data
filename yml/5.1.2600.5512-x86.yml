@@ -1,5 +1,7 @@
 family: Windows XP
 osname: SP3
+oldfamily: Windows XP
+oldosname: SP3
 buildnumber: 5.1.2600.5512
 arch: x86
 timestamp: 1208114663
@@ -306,7 +308,7 @@ types:
     kind: BASE
     sizeof: 1
   -
-    name: 
+    name:
     id: 12
     kind: ARRAY
     sizeof: 128
@@ -1057,7 +1059,7 @@ types:
         offset: 8
         ordinal: 5
   -
-    name: 
+    name:
     id: 35
     kind: ARRAY
     sizeof: 2
@@ -1099,7 +1101,7 @@ types:
         offset: 22
         ordinal: 4
   -
-    name: 
+    name:
     id: 37
     kind: ARRAY
     sizeof: 3
@@ -1131,7 +1133,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 40
     kind: ARRAY
     sizeof: 96
@@ -1193,7 +1195,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 44
     kind: ARRAY
     sizeof: 8
@@ -1250,7 +1252,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 49
     kind: ARRAY
     sizeof: 16
@@ -1761,7 +1763,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 60
     kind: ARRAY
     sizeof: 8
@@ -2274,7 +2276,7 @@ types:
         offset: 204
         ordinal: 24
   -
-    name: 
+    name:
     id: 79
     kind: ARRAY
     sizeof: 60
@@ -2336,7 +2338,7 @@ types:
         offset: 108
         ordinal: 8
   -
-    name: 
+    name:
     id: 81
     kind: ARRAY
     sizeof: 512
@@ -2347,7 +2349,7 @@ types:
         offset: 512
         ordinal: 0
   -
-    name: 
+    name:
     id: 82
     kind: ARRAY
     sizeof: 80
@@ -2836,7 +2838,7 @@ types:
         offset: 716
         ordinal: 1
   -
-    name: 
+    name:
     id: 85
     kind: ARRAY
     sizeof: 64
@@ -2847,7 +2849,7 @@ types:
         offset: 16
         ordinal: 0
   -
-    name: 
+    name:
     id: 86
     kind: ARRAY
     sizeof: 92
@@ -2858,7 +2860,7 @@ types:
         offset: 92
         ordinal: 0
   -
-    name: 
+    name:
     id: 87
     kind: ARRAY
     sizeof: 128
@@ -2869,7 +2871,7 @@ types:
         offset: 16
         ordinal: 0
   -
-    name: 
+    name:
     id: 88
     kind: ARRAY
     sizeof: 8
@@ -2900,7 +2902,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 91
     kind: ARRAY
     sizeof: 4
@@ -2911,7 +2913,7 @@ types:
         offset: 1
         ordinal: 0
   -
-    name: 
+    name:
     id: 92
     kind: ARRAY
     sizeof: 128
@@ -2922,7 +2924,7 @@ types:
         offset: 16
         ordinal: 0
   -
-    name: 
+    name:
     id: 93
     kind: ARRAY
     sizeof: 256
@@ -2939,7 +2941,7 @@ types:
     sizeof: 4
     isVolatile: true
   -
-    name: 
+    name:
     id: 95
     kind: ARRAY
     sizeof: 52
@@ -2950,7 +2952,7 @@ types:
         offset: 52
         ordinal: 0
   -
-    name: 
+    name:
     id: 96
     kind: ARRAY
     sizeof: 12
@@ -2972,7 +2974,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 98
     kind: ARRAY
     sizeof: 40
@@ -2993,7 +2995,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 100
     kind: ARRAY
     sizeof: 56
@@ -3004,7 +3006,7 @@ types:
         offset: 56
         ordinal: 0
   -
-    name: 
+    name:
     id: 101
     kind: ARRAY
     sizeof: 16
@@ -3015,7 +3017,7 @@ types:
         offset: 16
         ordinal: 0
   -
-    name: 
+    name:
     id: 102
     kind: ARRAY
     sizeof: 28
@@ -3026,7 +3028,7 @@ types:
         offset: 28
         ordinal: 0
   -
-    name: 
+    name:
     id: 103
     kind: ARRAY
     sizeof: 24
@@ -3037,7 +3039,7 @@ types:
         offset: 6
         ordinal: 0
   -
-    name: 
+    name:
     id: 104
     kind: ARRAY
     sizeof: 13
@@ -4009,7 +4011,7 @@ types:
         offset: 16
         ordinal: 2
   -
-    name: 
+    name:
     id: 117
     kind: ARRAY
     sizeof: 24
@@ -4020,7 +4022,7 @@ types:
         offset: 3
         ordinal: 0
   -
-    name: 
+    name:
     id: 118
     kind: ARRAY
     sizeof: 12
@@ -4277,7 +4279,7 @@ types:
         offset: 1
         ordinal: 1
   -
-    name: 
+    name:
     id: 130
     kind: ARRAY
     sizeof: 16
@@ -4464,7 +4466,7 @@ types:
         offset: 64
         ordinal: 18
   -
-    name: 
+    name:
     id: 134
     kind: ARRAY
     sizeof: 128
@@ -4475,7 +4477,7 @@ types:
         offset: 128
         ordinal: 0
   -
-    name: 
+    name:
     id: 135
     kind: ARRAY
     sizeof: 224
@@ -4822,7 +4824,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 152
     kind: ARRAY
     sizeof: 128
@@ -7468,7 +7470,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 203
     kind: ARRAY
     sizeof: 112
@@ -7598,7 +7600,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 212
     kind: ARRAY
     sizeof: 64
@@ -7650,7 +7652,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 216
     kind: ARRAY
     sizeof: 16
@@ -7788,7 +7790,7 @@ types:
         offset: 40
         ordinal: 5
   -
-    name: 
+    name:
     id: 221
     kind: ARRAY
     sizeof: 48
@@ -7799,7 +7801,7 @@ types:
         offset: 3
         ordinal: 0
   -
-    name: 
+    name:
     id: 222
     kind: ARRAY
     sizeof: 8
@@ -7850,7 +7852,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 227
     kind: ARRAY
     sizeof: 136
@@ -7871,7 +7873,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 229
     kind: ARRAY
     sizeof: 128
@@ -8485,7 +8487,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 248
     kind: ARRAY
     sizeof: 16
@@ -8858,7 +8860,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 259
     kind: ARRAY
     sizeof: 1536
@@ -8869,7 +8871,7 @@ types:
         offset: 768
         ordinal: 0
   -
-    name: 
+    name:
     id: 260
     kind: ARRAY
     sizeof: 96
@@ -9138,7 +9140,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 286
     kind: ARRAY
     sizeof: 16
@@ -9262,7 +9264,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: 
+    name:
     id: 293
     kind: ARRAY
     sizeof: 327680
@@ -9330,7 +9332,7 @@ types:
         offset: 8
         ordinal: 1
   -
-    name: 
+    name:
     id: 298
     kind: ARRAY
     sizeof: 512
@@ -10790,7 +10792,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 348
     kind: ARRAY
     sizeof: 64
@@ -12949,7 +12951,7 @@ types:
         offset: 8
         ordinal: 3
   -
-    name: 
+    name:
     id: 433
     kind: ARRAY
     sizeof: 28
@@ -13056,7 +13058,7 @@ types:
         offset: 16
         ordinal: 17
   -
-    name: 
+    name:
     id: 435
     kind: ARRAY
     sizeof: 40
@@ -13067,7 +13069,7 @@ types:
         offset: 1
         ordinal: 0
   -
-    name: 
+    name:
     id: 436
     kind: ARRAY
     sizeof: 32
@@ -13380,7 +13382,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: 
+    name:
     id: 449
     kind: ARRAY
     sizeof: 6
@@ -13391,7 +13393,7 @@ types:
         offset: 6
         ordinal: 0
   -
-    name: 
+    name:
     id: 450
     kind: ARRAY
     sizeof: 32
@@ -13511,7 +13513,7 @@ types:
         offset: 8
         ordinal: 6
   -
-    name: 
+    name:
     id: 455
     kind: ARRAY
     sizeof: 16
@@ -13522,7 +13524,7 @@ types:
         offset: 1
         ordinal: 0
   -
-    name: 
+    name:
     id: 456
     kind: ARRAY
     sizeof: 36
@@ -13533,7 +13535,7 @@ types:
         offset: 3
         ordinal: 0
   -
-    name: 
+    name:
     id: 457
     kind: ARRAY
     sizeof: 12
@@ -14086,7 +14088,7 @@ types:
         offset: 72
         ordinal: 19
   -
-    name: 
+    name:
     id: 475
     kind: ARRAY
     sizeof: 224
@@ -14896,7 +14898,7 @@ types:
         offset: 32
         ordinal: 6
   -
-    name: 
+    name:
     id: 506
     kind: ARRAY
     sizeof: 120
@@ -15869,7 +15871,7 @@ types:
         offset: 0
         ordinal: 3
   -
-    name: 
+    name:
     id: 544
     kind: ARRAY
     sizeof: 2
@@ -16434,7 +16436,7 @@ types:
         offset: 216
         ordinal: 40
   -
-    name: 
+    name:
     id: 555
     kind: ARRAY
     sizeof: 16
@@ -16729,7 +16731,7 @@ types:
         offset: 0
         ordinal: 3
   -
-    name: 
+    name:
     id: 569
     kind: ARRAY
     sizeof: 16
@@ -17115,7 +17117,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 582
     kind: ARRAY
     sizeof: 256
@@ -17136,7 +17138,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 584
     kind: ARRAY
     sizeof: 1024
@@ -17319,7 +17321,7 @@ types:
         offset: 3
         ordinal: 3
   -
-    name: 
+    name:
     id: 594
     kind: ARRAY
     sizeof: 48
@@ -17608,7 +17610,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 606
     kind: ARRAY
     sizeof: 8192
@@ -18041,7 +18043,7 @@ types:
         offset: 268
         ordinal: 28
   -
-    name: 
+    name:
     id: 615
     kind: ARRAY
     sizeof: 128
@@ -18148,7 +18150,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 620
     kind: ARRAY
     sizeof: 32
@@ -18358,7 +18360,7 @@ types:
         offset: 36
         ordinal: 9
   -
-    name: 
+    name:
     id: 625
     kind: ARRAY
     sizeof: 40
@@ -19132,7 +19134,7 @@ types:
         offset: 0
         ordinal: 1
   -
-    name: 
+    name:
     id: 649
     kind: ARRAY
     sizeof: 4
@@ -19906,7 +19908,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 669
     kind: ARRAY
     sizeof: 8
@@ -20820,7 +20822,7 @@ types:
         offset: 88
         ordinal: 23
   -
-    name: 
+    name:
     id: 687
     kind: ARRAY
     sizeof: 12
@@ -20851,7 +20853,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 690
     kind: ARRAY
     sizeof: 512
@@ -20998,7 +21000,7 @@ types:
         offset: 4
         ordinal: 1
   -
-    name: 
+    name:
     id: 704
     kind: ARRAY
     sizeof: 440
@@ -21645,7 +21647,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 728
     kind: ARRAY
     sizeof: 64
@@ -21656,7 +21658,7 @@ types:
         offset: 64
         ordinal: 0
   -
-    name: 
+    name:
     id: 729
     kind: ARRAY
     sizeof: 396
@@ -21667,7 +21669,7 @@ types:
         offset: 99
         ordinal: 0
   -
-    name: 
+    name:
     id: 730
     kind: ARRAY
     sizeof: 3576
@@ -21698,7 +21700,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 733
     kind: ARRAY
     sizeof: 192
@@ -21948,7 +21950,7 @@ types:
         offset: 0
         ordinal: 6
   -
-    name: 
+    name:
     id: 743
     kind: ARRAY
     sizeof: 4096
@@ -22650,7 +22652,7 @@ types:
         offset: 788
         ordinal: 20
   -
-    name: 
+    name:
     id: 759
     kind: ARRAY
     sizeof: 80
@@ -22693,7 +22695,7 @@ types:
         offset: 12
         ordinal: 2
   -
-    name: 
+    name:
     id: 762
     kind: ARRAY
     sizeof: 4
@@ -23018,7 +23020,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 771
     kind: ARRAY
     sizeof: 56
@@ -23029,7 +23031,7 @@ types:
         offset: 14
         ordinal: 0
   -
-    name: 
+    name:
     id: 772
     kind: ARRAY
     sizeof: 68
@@ -23231,7 +23233,7 @@ types:
         offset: 8332
         ordinal: 34
   -
-    name: 
+    name:
     id: 775
     kind: ARRAY
     sizeof: 8228
@@ -23242,7 +23244,7 @@ types:
         offset: 1
         ordinal: 0
   -
-    name: 
+    name:
     id: 776
     kind: ARRAY
     sizeof: 32
@@ -23269,7 +23271,7 @@ types:
         offset: 32
         ordinal: 1
   -
-    name: 
+    name:
     id: 778
     kind: ARRAY
     sizeof: 8196
@@ -23975,7 +23977,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 797
     kind: ARRAY
     sizeof: 4096
@@ -24247,7 +24249,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: 
+    name:
     id: 804
     kind: ARRAY
     sizeof: 96
@@ -24545,7 +24547,7 @@ types:
         offset: 16
         ordinal: 6
   -
-    name: 
+    name:
     id: 814
     kind: ARRAY
     sizeof: 60
@@ -24708,7 +24710,7 @@ types:
         offset: 60
         ordinal: 18
   -
-    name: 
+    name:
     id: 817
     kind: ARRAY
     sizeof: 8
@@ -24719,7 +24721,7 @@ types:
         offset: 4
         ordinal: 0
   -
-    name: 
+    name:
     id: 818
     kind: ARRAY
     sizeof: 20
@@ -24859,7 +24861,7 @@ types:
         offset: 28
         ordinal: 6
   -
-    name: 
+    name:
     id: 823
     kind: ARRAY
     sizeof: 4
@@ -25277,7 +25279,7 @@ types:
         offset: 816
         ordinal: 38
   -
-    name: 
+    name:
     id: 833
     kind: ARRAY
     sizeof: 520
@@ -25288,7 +25290,7 @@ types:
         offset: 260
         ordinal: 0
   -
-    name: 
+    name:
     id: 834
     kind: ARRAY
     sizeof: 32
@@ -26804,7 +26806,7 @@ types:
         offset: 4
         ordinal: 4
   -
-    name: 
+    name:
     id: 880
     kind: ARRAY
     sizeof: 4
@@ -26815,7 +26817,7 @@ types:
         offset: 4
         ordinal: 0
   -
-    name: 
+    name:
     id: 881
     kind: ARRAY
     sizeof: 224
@@ -26826,7 +26828,7 @@ types:
         offset: 7
         ordinal: 0
   -
-    name: 
+    name:
     id: 882
     kind: ARRAY
     sizeof: 112
@@ -27325,7 +27327,7 @@ types:
         offset: 0
         ordinal: 2
   -
-    name: 
+    name:
     id: 900
     kind: ARRAY
     sizeof: 192
@@ -27968,7 +27970,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 917
     kind: ARRAY
     sizeof: 32
@@ -29113,7 +29115,7 @@ types:
         offset: 162
         ordinal: 5
   -
-    name: 
+    name:
     id: 966
     kind: ARRAY
     sizeof: 148
@@ -29323,7 +29325,7 @@ types:
         offset: 1
         ordinal: 1
   -
-    name: 
+    name:
     id: 974
     kind: ARRAY
     sizeof: 424
@@ -30651,7 +30653,7 @@ types:
         offset: 64
         ordinal: 16
   -
-    name: 
+    name:
     id: 1031
     kind: ARRAY
     sizeof: 8
@@ -31230,7 +31232,7 @@ types:
         offset: 72
         ordinal: 27
   -
-    name: 
+    name:
     id: 1048
     kind: ARRAY
     sizeof: 24
@@ -31972,7 +31974,7 @@ types:
         offset: 4021
         ordinal: 65
   -
-    name: 
+    name:
     id: 1062
     kind: ARRAY
     sizeof: 104
@@ -31983,7 +31985,7 @@ types:
         offset: 26
         ordinal: 0
   -
-    name: 
+    name:
     id: 1063
     kind: ARRAY
     sizeof: 20
@@ -31994,7 +31996,7 @@ types:
         offset: 5
         ordinal: 0
   -
-    name: 
+    name:
     id: 1064
     kind: ARRAY
     sizeof: 216
@@ -32031,7 +32033,7 @@ types:
         offset: 12
         ordinal: 3
   -
-    name: 
+    name:
     id: 1066
     kind: ARRAY
     sizeof: 24
@@ -32063,7 +32065,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: 
+    name:
     id: 1068
     kind: ARRAY
     sizeof: 248
@@ -32074,7 +32076,7 @@ types:
         offset: 62
         ordinal: 0
   -
-    name: 
+    name:
     id: 1069
     kind: ARRAY
     sizeof: 932
@@ -32085,7 +32087,7 @@ types:
         offset: 233
         ordinal: 0
   -
-    name: 
+    name:
     id: 1070
     kind: ARRAY
     sizeof: 116
@@ -32096,7 +32098,7 @@ types:
         offset: 29
         ordinal: 0
   -
-    name: 
+    name:
     id: 1071
     kind: ARRAY
     sizeof: 522
@@ -32107,7 +32109,7 @@ types:
         offset: 261
         ordinal: 0
   -
-    name: 
+    name:
     id: 1072
     kind: ARRAY
     sizeof: 256
@@ -32118,7 +32120,7 @@ types:
         offset: 64
         ordinal: 0
   -
-    name: 
+    name:
     id: 1073
     kind: ARRAY
     sizeof: 8
@@ -32165,7 +32167,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 1076
     kind: ARRAY
     sizeof: 1240
@@ -32318,7 +32320,7 @@ types:
         offset: 8
         ordinal: 2
   -
-    name: 
+    name:
     id: 1085
     kind: ARRAY
     sizeof: 8
@@ -32876,7 +32878,7 @@ types:
         offset: 36
         ordinal: 6
   -
-    name: 
+    name:
     id: 1096
     kind: ARRAY
     sizeof: 880
@@ -33008,7 +33010,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 1103
     kind: ARRAY
     sizeof: 576
@@ -34684,7 +34686,7 @@ types:
         offset: 0
         ordinal: 0
   -
-    name: 
+    name:
     id: 1164
     kind: ARRAY
     sizeof: 40

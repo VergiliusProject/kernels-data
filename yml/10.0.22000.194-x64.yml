@@ -1,5 +1,7 @@
 family: Windows 11
-osname: 21H2 (RTM)
+osname: 21H2 (Original Release, Cobalt)
+oldfamily: Windows 11
+oldosname: 21H2 (RTM)
 buildnumber: 10.0.22000.194
 arch: x64
 timestamp: 1631550989

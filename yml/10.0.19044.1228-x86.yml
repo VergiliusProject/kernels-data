@@ -1,6 +1,8 @@
 family: Windows 10
-osname: 2110 21H2 (November 2021 Update)
-buildnumber: 10.0.19041.1288
+osname: 21H2 (November 2021 Update, Vibranium R4)
+oldfamily: Windows 10
+oldosname: 2110 21H2 (November 2021 Update)
+buildnumber: 10.0.19044.1288
 arch: x86
 timestamp: 1633542952
 types:

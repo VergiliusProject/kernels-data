@@ -1,5 +1,7 @@
-family: Windows 10 | 2016
-osname: 2210 22H2 (May 2023 Update)
+family: Windows 10
+osname: 22H2 (2022 Update, Vibranium R5)
+oldfamily: Windows 10 | 2016
+oldosname: 2210 22H2 (May 2023 Update)
 buildnumber: 10.0.19045.2965
 arch: x64
 timestamp: 1683260785

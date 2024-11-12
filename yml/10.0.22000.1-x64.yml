@@ -1,5 +1,7 @@
 family: Windows 11
 osname: Insider Preview (Jun 2021)
+oldfamily: Windows 11
+oldosname: Insider Preview (Jun 2021)
 buildnumber: 10.0.22000.1
 arch: x64
 timestamp: 1622860890
